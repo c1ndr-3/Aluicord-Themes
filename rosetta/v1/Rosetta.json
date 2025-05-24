@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "name": "rosetta",
+        "author": "Moon",
+        "version": "1.0"
+    },
+    "background": {
+        "overlay_alpha": 100,
+        "url": "https:\/\/raw.githubusercontent.com\/c1ndr-3\/Aluicord-Themes\/refs\/heads\/main\/rosetta\/bg.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -4022574,
+        "input_background": -1927273940,
+        "mention_highlight": -1619638899,
+        "accent": -11327897,
+        "background": 131587,
+        "background_secondary": 1879442950
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
