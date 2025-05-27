@@ -1,2 +1,3 @@
-# Aluicord-Themes
-Just a bunch of aluicord themes i made :3
+# Arch.ive's Discord Themes
+
+find the folders and find your theme!!
